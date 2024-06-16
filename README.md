@@ -3,7 +3,8 @@
 ## Learning Goals
 
 - Create an HTML structure for an existing mockup
-![alt text](./MOCKUP.jpg)
+  ![Final output](./final.png)
+
 ## Introduction
 
 Web developers are often asked to work from a mockup of a potential webpage,
