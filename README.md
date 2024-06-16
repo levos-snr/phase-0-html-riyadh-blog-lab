@@ -4,6 +4,8 @@
 
 - Create an HTML structure for an existing mockup
 
+<img src="/home/levos-snr/Development/assignments/phase-0-html-riyadh-blog-lab/MOCKUP.jpg" alt="blog" />
+
 ## Introduction
 
 Web developers are often asked to work from a mockup of a potential webpage,
